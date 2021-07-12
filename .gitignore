@@ -22,3 +22,10 @@ yarn-error.log
 *.zip
 *.7zip
 *.rar
+
+
+.editorconfig
+.env.example
+.gitattributes
+.styleci.yml
+
